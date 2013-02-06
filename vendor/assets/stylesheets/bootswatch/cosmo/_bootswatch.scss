@@ -467,19 +467,19 @@ legend {
 	font-weight: 300;
 	text-shadow: none;
 
-	.label-success {
+	&.label-success {
 		background-color: $green;
 	}
 
-	.label-important {
+	&.label-important {
 		background-color: $red;
 	}
 
-	.label-info {
+	&.label-info {
 		background-color: $purple;
 	}
 
-	.label-inverse {
+	&.label-inverse {
 		background-color: $black;
 	}
 }
@@ -490,19 +490,19 @@ legend {
 	font-weight: 300;
 	text-shadow: none;
 
-	.badge-success {
+	&.badge-success {
 		background-color: $green;
 	}
 
-	.badge-important {
+	&.badge-important {
 		background-color: $red;
 	}
 
-	.badge-info {
+	&.badge-info {
 		background-color: $purple;
 	}
 
-	.badge-inverse {
+	&.badge-inverse {
 		background-color: $black;
 	}
 }
